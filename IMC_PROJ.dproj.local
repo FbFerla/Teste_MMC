@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/14 21:46:49.000.237,=C:\Users\fabio\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2019/02/14 21:46:50.000.026,=C:\Users\fabio\Documents\RAD Studio\Projects\ItemDetail1.pas</Transaction>
+    <Transaction>2019/02/14 21:48:16.000.555,=C:\Users\fabio\Documents\RAD Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2019/02/14 21:48:17.000.595,=C:\Users\fabio\Documents\RAD Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2019/02/16 10:14:58.000.471,=C:\Users\fabio\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2019/02/16 10:14:59.000.312,=C:\Users\fabio\Documents\RAD Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2019/02/16 10:16:45.000.735,=C:\Users\fabio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/16 18:12:06.000.358,=C:\Users\fabio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 14:16:38.000.252,=C:\Users\fabio\Documents\RAD Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2019/07/10 14:16:40.000.381,=C:\Users\fabio\Documents\RAD Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2020/03/25 09:57:53.716,=C:\Users\fabio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 10:39:01.723,C:\Users\fabio\OneDrive\Área de Trabalho\UNIGRAN\Projeto IMC\Fontes\IMC.dfm=C:\Users\fabio\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/25 10:39:01.723,C:\Users\fabio\OneDrive\Área de Trabalho\UNIGRAN\Projeto IMC\Fontes\IMC.pas=C:\Users\fabio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 10:39:27.340,C:\Users\fabio\OneDrive\Área de Trabalho\UNIGRAN\Projeto IMC\Fontes\IMC_PROJ.dproj=C:\Users\fabio\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
